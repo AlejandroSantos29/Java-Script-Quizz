@@ -1,0 +1,54 @@
+{
+    "preguntas": [
+        {
+            "pregunta": "¿Cuál de las siguientes palabras clave se utiliza para declarar una variable local en JavaScript?",
+            "opciones": [
+                "var",
+                "int",
+                "string",
+                "float"
+            ],
+            "respuesta_correcta": "var"
+        },
+        {
+            "pregunta": "¿Cuál es el resultado de 2 + 2 en JavaScript?",
+            "opciones": [
+                "4",
+                "22",
+                "0",
+                "undefined"
+            ],
+            "respuesta_correcta": "4"
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes estructuras de datos se utiliza para almacenar múltiples valores en JavaScript?",
+            "opciones": [
+                "Array",
+                "Object",
+                "String",
+                "Boolean"
+            ],
+            "respuesta_correcta": "Array"
+        },
+        {
+            "pregunta": "¿Qué método se utiliza para agregar un elemento al final de un array en JavaScript?",
+            "opciones": [
+                "push()",
+                "pop()",
+                "shift()",
+                "unshift()"
+            ],
+            "respuesta_correcta": "push()"
+        },
+        {
+            "pregunta": "¿Qué tipo de bucle se utiliza para iterar sobre un objeto en JavaScript?",
+            "opciones": [
+                "for...in",
+                "for",
+                "while",
+                "do...while"
+            ],
+            "respuesta_correcta": "for...in"
+        }
+    ]
+}
